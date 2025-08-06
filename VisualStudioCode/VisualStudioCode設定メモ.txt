@@ -1,0 +1,27 @@
+VisualStudioCode設定のメモ
+
+・View→Command Pallete（またはCtl + Shit + p)
+  で立ち上げたパレットから「Configure Display Language」を検索
+　そこで日本語を選択（必要ない人はEnglishでOK）
+
+・拡張機能としてインストールするもの
+　Material Icon Theme
+　Code Spell Checker
+　Zenkaku
+　CSS Peek
+　Highlight Matching Tag
+　live server
+
+・設定項目から
+　unicode hightlight non basic ascii　→　falseに
+
+・配色テーマを設定メニューから変更できます。
+
+
+今後
+日本語化して使おうと思うもの：
+VisualStudioCode
+
+英語のまま使おうと思うもの：
+VisualStudio2022
+Unity
