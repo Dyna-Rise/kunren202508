@@ -1,4 +1,6 @@
-----GitHub URL集----
+------------------------------------------------------
+GitHub URL集
+------------------------------------------------------
 
 ・HTML/CSSの練習サイトのサンプル
 https://github.com/Dyna-Rise/WebPractice/tree/main
@@ -6,3 +8,21 @@ https://github.com/Dyna-Rise/WebPractice/tree/main
 ・HTML/CSS Global English Academyの授業内容
 https://github.com/Dyna-Rise/0806Practice
 
+
+
+
+
+------------------------------------------------------
+HTML/CSS
+------------------------------------------------------
+
+・エメットチートシート　参考：Emmet Documentation
+https://docs.emmet.io/cheat-sheet/
+
+
+・2023年版　おすすめのリセットCSS（reset.css）3選【CDNのコピペあり】（参照：Zenn）
+https://zenn.dev/yurukei20/articles/ffdbde17cd0853
+
+
+・【CSS】displayの使い方を総まとめ！inlineやblockの違いは？（参照：サルワカ）
+https://saruwakakun.com/html-css/basic/display

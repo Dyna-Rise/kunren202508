@@ -1,0 +1,20 @@
+VisualStudioCode
+ショートカット集
+
+・拡大/縮小
+Ctr + 「+」、「-」
+
+・ひな形呼び出しエメット
+! + Tab
+
+・設定
+Ctr(cmd) + ,
+
+・自動整列
+Alt(option) + Shift + F
+
+・コメントアウト
+Ctl(cmd) + /
+
+・折り返し設定
+Alt + Z
