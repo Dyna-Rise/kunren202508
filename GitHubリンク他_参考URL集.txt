@@ -3,3 +3,6 @@
 ・HTML/CSSの練習サイトのサンプル
 https://github.com/Dyna-Rise/WebPractice/tree/main
 
+・HTML/CSS Global English Academyの授業内容
+https://github.com/Dyna-Rise/0806Practice
+
